@@ -37,6 +37,11 @@ if GLOBAL.KnownModIndex:IsModEnabled("workshop-444235588") then
 	end
 end
 
+--For the mod of Tropical Experience | The Volcano Biome
+if GLOBAL.KnownModIndex:IsModEnabled("workshop-1505270912") then
+	table.insert(whitelist_for_ice_flingomatic, "obsidianfirepit")
+end
+
 for k, v in pairs(whitelist_for_ice_flingomatic) do
 	AddPrefabPostInit(v, function(inst)
 		inst:AddTag("burnt")

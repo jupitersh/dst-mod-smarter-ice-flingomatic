@@ -12,11 +12,15 @@ It's better if you combine the mod [Invincible Structures](https://steamcommunit
 
 ## Changelog
 
-**List of tweaks I made for version 1.2**
+**Version 1.3.0**
+
+-- Compatible with the Obsidian Firepit in the mod of [Tropical Experience | The Volcano Biome](https://steamcommunity.com/sharedfiles/filedetails/?id=1505270912).
+
+**Version 1.2**
 
 - The Ice Flingomatic has more fuel capacity now, up to fivefold(25 days). This new feature is disabled by default.
 
-**List of tweaks I made for version 1.0.4**
+**Version 1.0.4**
 
 - Made it compatible with the mod [Deluxe Campfires 2.11](url=https://steamcommunity.com/sharedfiles/filedetails/?id=444235588).
 
